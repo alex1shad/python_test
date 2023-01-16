@@ -1,0 +1,2 @@
+1. Перед запуском файла [**"auth_test.py"**](auth_selenium/auth_test.py) необходимо занести данные о логине и пароле от Яндекс.Почты в файл [**"auth.json"**](auth_selenium/auth.json)
+2. Перед запуском файла [**"API_test.py"**](API_test/API_test.py) необходимо занести данные о токене от Яндекс.Диска в файл [**"token.txt"**](API_test/token.txt)
